@@ -1,0 +1,42 @@
+
+#background-image {
+  background-size: cover;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+#insert-image {
+ position: absolute;
+ margin: 130px 200px 140px 280px;
+ width: 650px;
+ height: 350px;
+
+}
+
+#left-button {
+  position: absolute;
+  margin: 300px 20px 20px 100px;
+}
+
+#left-btn{
+  width: 80px;
+  height: 50px;
+}
+
+#right-button {
+  position: absolute;
+  margin: 300px 100px 100px 1000px;
+}
+
+#right-btn{
+  width: 80px;
+  height: 50px;
+}
+
+.radio-button-container {
+  position: absolute;
+  margin: 500px 50px 50px 550px;
+}
+
+
